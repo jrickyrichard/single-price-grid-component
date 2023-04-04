@@ -152,10 +152,6 @@ footer p{
 
 @media (min-width: 750px) {
 
-    /* body {
-        padding: 6rem;
-    } */
-
     #wrapper-one {
         grid-column: span 2;
     }
